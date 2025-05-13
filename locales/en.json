@@ -1,4 +1,4 @@
 {
     "greeting": "Hello {name}!",
-    "goodbye": "Goodbye {name}!",
+    "goodbye": "Goodbye {name}!"
 }
